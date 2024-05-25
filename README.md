@@ -1,4 +1,4 @@
-# Official Tensorflow Implementation of VideoMAE.
+# Tensorflow Implementation of VideoMAE.
 
 ![VideoMAE Framework](figs/videomae.jpg)
 
